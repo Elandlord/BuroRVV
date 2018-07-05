@@ -1,0 +1,7 @@
+11-03-2016 @ 11:26:17 - Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+11-03-2016 @ 14:55:24 - Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+11-03-2016 @ 16:25:31 - Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+11-03-2016 @ 17:42:33 - mollie_wc_gateway_creditcard: Create payment for order 248
+11-03-2016 @ 17:42:33 - mollie_wc_gateway_creditcard: Failed to create payment for order 248: Error executing API call (request): The webhook location is invalid.
+11-03-2016 @ 17:43:44 - mollie_wc_gateway_banktransfer: Create payment for order 248
+11-03-2016 @ 17:43:44 - mollie_wc_gateway_banktransfer: Failed to create payment for order 248: Error executing API call (request): The webhook location is invalid.
